@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Ir al super",
+    "completada": true
+  },
+  {
+    "id": 2,
+    "descripcion": "pagar la luz",
+    "completada": false
+  }
+]
